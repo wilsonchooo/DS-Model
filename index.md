@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Overview
+
+The goal of this data science project was to use New York City's public data in order to find out what sort of correlation internet availability and quality has on one's education. By compiling different sources of information we can analyze the relationships that exist between these two factors. The project uses multiple python libraries in order to create the and visualize the linear regression and multi-linear models. Such libraries include matplotlib, pandas, numpy, plotly and sklearn. 
+
+## Visualization of internet availability
 
 You can use the [editor on GitHub](https://github.com/wilsonchooo/wilsonchooo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
