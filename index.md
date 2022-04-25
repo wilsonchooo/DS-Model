@@ -7,6 +7,8 @@ The goal of this data science project was to use New York City's public data in 
 
 [Link to Map] (wilsonchooo.github.io/choropleth_home1.html)
 
+<iframe src="choropleth_home1.html" width="100%" height="500" style="border:1px solid black;">  </iframe>
+
 You can use the [editor on GitHub](https://github.com/wilsonchooo/wilsonchooo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
