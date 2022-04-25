@@ -5,7 +5,7 @@ The goal of this data science project was to use New York City's public data in 
 ## Visualization of internet availability
 
 
-[Link to Map] (wilsonchooo.github.io/choropleth_home1.html)
+[Link to Map] (https://wilsonchooo.github.io/choropleth_home1.html)
 
 You can use the [editor on GitHub](https://github.com/wilsonchooo/wilsonchooo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
