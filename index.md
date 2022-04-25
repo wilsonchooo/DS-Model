@@ -5,7 +5,7 @@ The goal of this data science project was to use New York City's public data in 
 ## Visualization of internet availability
 
 
-#wilsonchooo.github.io/choropleth_home1.html
+wilsonchooo.github.io/choropleth_home1.html
 You can use the [editor on GitHub](https://github.com/wilsonchooo/wilsonchooo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
