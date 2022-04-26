@@ -26,7 +26,7 @@ From this we can quickly locate any two variables which may have a correlation w
 # Analysis
 ### Internet Adoption Rates 
 The two histograms below show the amount of neighborhoods that have a certain mobile and home broadband adoption rate along with their respective averages. From this we can see how each neighborhood has a varied broadband adoption rate and the range in which they encompass.  
-![Home Histogram](/histogram_home.png)
+![Home Histogram](../histogram_home.png)
 ![Mobile Histogram](/histogram_mobile.png)
 
 While the histograms allow us to see how many neighborhoods have a certain adoption rate of mobile and home broadband, a different visualization may be better suited for finding patterns such as 
