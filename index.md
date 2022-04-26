@@ -20,14 +20,14 @@ Data cleaning was performed on all three sets of data by handling any rows that 
 
 Using the Seaborn library, a heatmap was created to visualize the correlations that were present within the datasets. A positive correlation between two variables indicates that as one increases so does the other while a negative correlation occurs when a variable decreases while the other increases. The correlations can be used to test hypotheses about cause and effect relationships between the variables. While correlation may indicate that there exists a relationship between the two variables, it does not imply causation.
 
-![Correlation Heatmap](/Correlation%20Heatmap.png)
+![Correlation Heatmap](https://wilsonchooo.github.io/DS-Model/Correlation%20Heatmap.png)
 From this we can quickly locate any two variables which may have a correlation with each other to look into further.
 
 # Analysis
 ### Internet Adoption Rates 
 The two histograms below show the amount of neighborhoods that have a certain mobile and home broadband adoption rate along with their respective averages. From this we can see how each neighborhood has a varied broadband adoption rate and the range in which they encompass.  
-![Home Histogram](/histogram_home.png)
-![Mobile Histogram](/histogram_mobile.png)
+![Home Histogram](https://wilsonchooo.github.io/DS-Model/histogram_home.png)
+![Mobile Histogram](https://wilsonchooo.github.io/DS-Model/histogram_mobile.png)
 
 While the histograms allow us to see how many neighborhoods have a certain adoption rate of mobile and home broadband, a different visualization may be better suited for finding patterns such as 
 
