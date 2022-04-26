@@ -21,6 +21,7 @@ Data cleaning was performed on all three sets of data by handling any rows that 
 Using the Seaborn library, a heatmap was created to visualize the correlations that were present within the datasets. A positive correlation between two variables indicates that as one increases so does the other while a negative correlation occurs when a variable decreases while the other increases. The correlations can be used to test hypotheses about cause and effect relationships between the variables. While correlation may indicate that there exists a relationship between the two variables, it does not imply causation.
 
 ![Correlation Heatmap](https://wilsonchooo.github.io/DS-Model/Correlation%20Heatmap.png)
+<img src="https://wilsonchooo.github.io/DS-Model/Correlation%20Heatmap.png">
 From this we can quickly locate any two variables which may have a correlation with each other to look into further.
 
 # Analysis
@@ -71,3 +72,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
