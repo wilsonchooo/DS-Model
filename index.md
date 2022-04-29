@@ -23,6 +23,9 @@ Using the Seaborn library, a heatmap was created to visualize the correlations t
 ![Correlation Heatmap](https://wilsonchooo.github.io/Internet-Availability-on-Education/Correlation%20Heatmap.png)
 From this we can quickly locate any two variables which may have a correlation with each other to look into further.
 
+<iframe src="choropleth_home1.html"></iframe>
+
+'<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~chris/1638.embed" height="525" width="100%"></iframe>'
 # Analysis
 ### Internet Adoption Rates 
 The two histograms below show the amount of neighborhoods that have a certain mobile and home broadband adoption rate along with their respective averages. From this we can see how each neighborhood has a varied broadband adoption rate and the range in which they encompass.  
