@@ -1,5 +1,5 @@
 # Does Internet Availability Affect Education?
-
+![Internet](https://wilsonchooo.github.io/Internet-Availability-on-Education/internet.jpg)
 ## Overview
 
 The goal of this data science project was to use New York City's public data in order to find out what sort of correlation internet availability and quality has on one's education. By compiling different sources of information we can analyze the relationships that exist between these two factors. The project uses multiple python libraries in order to create the and visualize the linear regression and multi-linear models. Such libraries include matplotlib, pandas, numpy, plotly and sklearn. 
