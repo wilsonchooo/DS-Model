@@ -22,8 +22,11 @@ The three different CSV files were then joined into a single table using Pandas 
 
 
 ## Choropleth of internet availability
-[Link](https://wilsonchooo.github.io/Internet-Availability-on-Education/choropleth_home1.html)
-[<img src="http://www.google.com.au/images/nav_logo7.png">](https://wilsonchooo.github.io/Internet-Availability-on-Education/choropleth_home1.html)
+### Home Broadband Choropleth
+[<img src="https://wilsonchooo.github.io/Internet-Availability-on-Education/Home%20broadband%20choropleth.png">](https://wilsonchooo.github.io/Internet-Availability-on-Education/choropleth_home1.html)
+
+### Mobile Broadband Choropleth
+[<img src="https://wilsonchooo.github.io/Internet-Availability-on-Education/Mobile%20broadband%20choropleth.png">](https://wilsonchooo.github.io/Internet-Availability-on-Education/choropleth_mobile1.html)
 
 Using the Seaborn library, a heatmap was created to visualize the correlations that were present within the datasets. A positive correlation between two variables indicates that as one increases so does the other while a negative correlation occurs when a variable decreases while the other increases. The correlations can be used to test hypotheses about cause and effect relationships between the variables. While correlation may indicate that there exists a relationship between the two variables, it does not imply causation.
 
