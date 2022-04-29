@@ -16,16 +16,22 @@ I chose to use the following three sets of data from https://opendata.cityofnewy
 
 [2017-2018 School locations](https://data.cityofnewyork.us/Education/2017-2018-School-Locations/p6h4-mpyy)
 
-Data cleaning was performed on all three sets of data by handling any rows that had missing data, renaming columns to ensure consistency, and filtering unwanted outliers and data.
+Data cleaning was performed on all three sets of data by handling any rows that had missing data, renaming columns to ensure consistency, and filtering unwanted outliers and data. 
+
+The three different CSV files were then joined into a single table using Pandas to ensure that the neighborhood tabulation areas that would be included into the model would have records indicating how many SHSAT were sent out to that area.  
+
+
+## Choropleth of internet availability
+[Link](https://wilsonchooo.github.io/Internet-Availability-on-Education/choropleth_home1.html)
+[<img src="http://www.google.com.au/images/nav_logo7.png">](https://wilsonchooo.github.io/Internet-Availability-on-Education/choropleth_home1.html)
 
 Using the Seaborn library, a heatmap was created to visualize the correlations that were present within the datasets. A positive correlation between two variables indicates that as one increases so does the other while a negative correlation occurs when a variable decreases while the other increases. The correlations can be used to test hypotheses about cause and effect relationships between the variables. While correlation may indicate that there exists a relationship between the two variables, it does not imply causation.
 
 ![Correlation Heatmap](https://wilsonchooo.github.io/Internet-Availability-on-Education/Correlation%20Heatmap.png)
 From this we can quickly locate any two variables which may have a correlation with each other to look into further.
 
-<iframe src="choropleth_home1.html"></iframe>
 
-'<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~chris/1638.embed" height="525" width="100%"></iframe>'
+
 # Analysis
 ### Internet Adoption Rates 
 The two histograms below show the amount of neighborhoods that have a certain mobile and home broadband adoption rate along with their respective averages. From this we can see how each neighborhood has a varied broadband adoption rate and the range in which they encompass.  
@@ -34,10 +40,7 @@ The two histograms below show the amount of neighborhoods that have a certain mo
 
 While the histograms allow us to see how many neighborhoods have a certain adoption rate of mobile and home broadband, a different visualization may be better suited for finding patterns such as 
 
-## Visualization of internet availability
 
-
-[Link](https://wilsonchooo.github.io/Internet-Availability-on-Education/choropleth_home1.html)
 
 You can use the [editor on GitHub](https://github.com/wilsonchooo/wilsonchooo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
