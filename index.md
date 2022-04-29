@@ -76,3 +76,19 @@ I used various python libaries throughout the project. Pandas was used in order 
 
 ## Conclusion
 After creating various visualizations and models in order to analyze the relationship between internet broadband adoption and specialized high school offers given for each neighborhood, it does appear that there exists a positive relationship between the two. As home and mobile broadband is adopted more, the rates of offers also goes up. However, we can not definitively say that they are based on one another as there are too many factors that could affect our metric of enrollment offers. For instance, the lack of internet adoption could be a part in something bigger such as wealth inequality or simply geographic landscape of their neighborhood disallowing for more and better broadband options. Due to this, I would not make the assumption that internet accessibility alone can determine an area's rate of SHSAT high school enrollment but I would say that it does have an effect on education in general.
+
+# Citation
+## Data Sources:
+[Internet Master Plan Adoption and Infrastructure](https://data.cityofnewyork.us/City-Government/Internet-Master-Plan-Adoption-and-Infrastructure-D/fg5j-q5nk/data)
+
+[2017-2018 SHSAT Admissions Test Offers by Sending School](https://data.cityofnewyork.us/Education/2017-2018-SHSAT-Admissions-Test-Offers-By-Sending-/vsgi-eeb5/data)
+
+[2017-2018 School locations](https://data.cityofnewyork.us/Education/2017-2018-School-Locations/p6h4-mpyy)
+
+## Additonal Resources: 
+https://stackoverflow.com/questions/65888553/fitting-a-line-through-3d-x-y-z-scatter-plot-data
+https://www.textbook.ds100.org/ch/20/feature_polynomial.html?highlight=polynomial
+https://www.textbook.ds100.org/ch/09/wrangling_structure.html
+https://www.textbook.ds100.org/ch/11/viz_scale.html
+https://seaborn.pydata.org/tutorial/regression.html
+https://plotly.com/python/choropleth-maps/
